@@ -1,0 +1,14 @@
+/Users/magicgary/Documents/projects/ChallengeApi/bin/Debug/netcoreapp2.1/ChallengeApi.deps.json
+/Users/magicgary/Documents/projects/ChallengeApi/bin/Debug/netcoreapp2.1/ChallengeApi.runtimeconfig.json
+/Users/magicgary/Documents/projects/ChallengeApi/bin/Debug/netcoreapp2.1/ChallengeApi.runtimeconfig.dev.json
+/Users/magicgary/Documents/projects/ChallengeApi/bin/Debug/netcoreapp2.1/ChallengeApi.dll
+/Users/magicgary/Documents/projects/ChallengeApi/bin/Debug/netcoreapp2.1/ChallengeApi.pdb
+/Users/magicgary/Documents/projects/ChallengeApi/obj/Debug/netcoreapp2.1/ChallengeApi.csprojAssemblyReference.cache
+/Users/magicgary/Documents/projects/ChallengeApi/obj/Debug/netcoreapp2.1/ChallengeApi.csproj.CoreCompileInputs.cache
+/Users/magicgary/Documents/projects/ChallengeApi/obj/Debug/netcoreapp2.1/ChallengeApi.RazorAssemblyInfo.cache
+/Users/magicgary/Documents/projects/ChallengeApi/obj/Debug/netcoreapp2.1/ChallengeApi.RazorAssemblyInfo.cs
+/Users/magicgary/Documents/projects/ChallengeApi/obj/Debug/netcoreapp2.1/ChallengeApi.AssemblyInfoInputs.cache
+/Users/magicgary/Documents/projects/ChallengeApi/obj/Debug/netcoreapp2.1/ChallengeApi.AssemblyInfo.cs
+/Users/magicgary/Documents/projects/ChallengeApi/obj/Debug/netcoreapp2.1/ChallengeApi.RazorTargetAssemblyInfo.cache
+/Users/magicgary/Documents/projects/ChallengeApi/obj/Debug/netcoreapp2.1/ChallengeApi.dll
+/Users/magicgary/Documents/projects/ChallengeApi/obj/Debug/netcoreapp2.1/ChallengeApi.pdb
