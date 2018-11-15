@@ -7,14 +7,14 @@ using ChallengeApi.BusinessLogic;
 
 namespace ChallengeApi.Controllers
 {
-    [Route("api/largestblock")]
+    [Route("api/asencdsort")]
     [ApiController]
     public class AcscendingArrangeController : ControllerBase
     {
         [HttpGet("{str}")]
         public ActionResult<string> Get(string str)
         {
-            return ChallengeSolutions.LargestBlock(str);
+            return ChallengeSolutions.AscendingArrange(str);
         }
 
     }
